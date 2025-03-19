@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shody\\Documents\\Projects\\BookStoreABPTest\\Acme.BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50B2631D-129C-47B3-A587-029CCD6099BC}|test\\Acme.BookStore.Application.Tests\\Acme.BookStore.Application.Tests.csproj|c:\\users\\shody\\documents\\projects\\bookstoreabptest\\acme.bookstore\\test\\acme.bookstore.application.tests\\books\\bookappservice_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B2631D-129C-47B3-A587-029CCD6099BC}|test\\Acme.BookStore.Application.Tests\\Acme.BookStore.Application.Tests.csproj|solutionrelative:test\\acme.bookstore.application.tests\\books\\bookappservice_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE30EB9-74A9-47F5-A9F6-7B1FAB672D81}|test\\Acme.BookStore.EntityFrameworkCore.Tests\\Acme.BookStore.EntityFrameworkCore.Tests.csproj|c:\\users\\shody\\documents\\projects\\bookstoreabptest\\acme.bookstore\\test\\acme.bookstore.entityframeworkcore.tests\\entityframeworkcore\\applications\\books\\efcorebookappservice_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE30EB9-74A9-47F5-A9F6-7B1FAB672D81}|test\\Acme.BookStore.EntityFrameworkCore.Tests\\Acme.BookStore.EntityFrameworkCore.Tests.csproj|solutionrelative:test\\acme.bookstore.entityframeworkcore.tests\\entityframeworkcore\\applications\\books\\efcorebookappservice_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554AD327-6DBA-4F8F-96F8-81CE7A0C863F}|src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj|c:\\users\\shody\\documents\\projects\\bookstoreabptest\\acme.bookstore\\src\\acme.bookstore.domain\\seeddata\\loadsampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554AD327-6DBA-4F8F-96F8-81CE7A0C863F}|src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj|solutionrelative:src\\acme.bookstore.domain\\seeddata\\loadsampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EfCoreBookAppService_Tests.cs",
+              "DocumentMoniker": "C:\\Users\\shody\\Documents\\Projects\\BookStoreABPTest\\Acme.BookStore\\test\\Acme.BookStore.EntityFrameworkCore.Tests\\EntityFrameworkCore\\Applications\\Books\\EfCoreBookAppService_Tests.cs",
+              "RelativeDocumentMoniker": "test\\Acme.BookStore.EntityFrameworkCore.Tests\\EntityFrameworkCore\\Applications\\Books\\EfCoreBookAppService_Tests.cs",
+              "ToolTip": "C:\\Users\\shody\\Documents\\Projects\\BookStoreABPTest\\Acme.BookStore\\test\\Acme.BookStore.EntityFrameworkCore.Tests\\EntityFrameworkCore\\Applications\\Books\\EfCoreBookAppService_Tests.cs",
+              "RelativeToolTip": "test\\Acme.BookStore.EntityFrameworkCore.Tests\\EntityFrameworkCore\\Applications\\Books\\EfCoreBookAppService_Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:55:59.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookAppService_Tests.cs",
+              "DocumentMoniker": "C:\\Users\\shody\\Documents\\Projects\\BookStoreABPTest\\Acme.BookStore\\test\\Acme.BookStore.Application.Tests\\Books\\BookAppService_Tests.cs",
+              "RelativeDocumentMoniker": "test\\Acme.BookStore.Application.Tests\\Books\\BookAppService_Tests.cs",
+              "ToolTip": "C:\\Users\\shody\\Documents\\Projects\\BookStoreABPTest\\Acme.BookStore\\test\\Acme.BookStore.Application.Tests\\Books\\BookAppService_Tests.cs",
+              "RelativeToolTip": "test\\Acme.BookStore.Application.Tests\\Books\\BookAppService_Tests.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwEMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:21:53.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoadSampleData.cs",
+              "DocumentMoniker": "C:\\Users\\shody\\Documents\\Projects\\BookStoreABPTest\\Acme.BookStore\\src\\Acme.BookStore.Domain\\SeedData\\LoadSampleData.cs",
+              "RelativeDocumentMoniker": "src\\Acme.BookStore.Domain\\SeedData\\LoadSampleData.cs",
+              "ToolTip": "C:\\Users\\shody\\Documents\\Projects\\BookStoreABPTest\\Acme.BookStore\\src\\Acme.BookStore.Domain\\SeedData\\LoadSampleData.cs",
+              "RelativeToolTip": "src\\Acme.BookStore.Domain\\SeedData\\LoadSampleData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:14:26.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Application.Contracts\bin\Debug\net9.0\Acme.BookStore.Application.Contracts.deps.json
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Application.Contracts\bin\Debug\net9.0\Acme.BookStore.Application.Contracts.dll
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Application.Contracts\bin\Debug\net9.0\Acme.BookStore.Application.Contracts.pdb
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Application.Contracts\bin\Debug\net9.0\Acme.BookStore.Domain.Shared.dll
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Application.Contracts\bin\Debug\net9.0\Acme.BookStore.Domain.Shared.pdb
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Application.Contracts\obj\Debug\net9.0\Acme.BookStore.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Application.Contracts\obj\Debug\net9.0\Acme.BookStore.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Application.Contracts\obj\Debug\net9.0\Acme.BookStore.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Application.Contracts\obj\Debug\net9.0\Acme.BookStore.Application.Contracts.AssemblyInfo.cs
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Application.Contracts\obj\Debug\net9.0\Acme.BookStore.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Application.Contracts\obj\Debug\net9.0\Acme.Boo.7837D992.Up2Date
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Application.Contracts\obj\Debug\net9.0\Acme.BookStore.Application.Contracts.dll
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Application.Contracts\obj\Debug\net9.0\refint\Acme.BookStore.Application.Contracts.dll
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Application.Contracts\obj\Debug\net9.0\Acme.BookStore.Application.Contracts.pdb
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Application.Contracts\obj\Debug\net9.0\ref\Acme.BookStore.Application.Contracts.dll
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Application.Contracts\obj\Debug\net9.0\Acme.BookStore.Application.Contracts.sourcelink.json

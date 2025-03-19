@@ -1,0 +1,14 @@
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain.Shared\bin\Debug\net9.0\Acme.BookStore.Domain.Shared.deps.json
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain.Shared\bin\Debug\net9.0\Acme.BookStore.Domain.Shared.dll
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain.Shared\bin\Debug\net9.0\Acme.BookStore.Domain.Shared.pdb
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\net9.0\Acme.BookStore.Domain.Shared.csproj.AssemblyReference.cache
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\net9.0\Acme.BookStore.Domain.Shared.EmbeddedFilesManifest.cache
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\net9.0\Acme.BookStore.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\net9.0\Acme.BookStore.Domain.Shared.AssemblyInfoInputs.cache
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\net9.0\Acme.BookStore.Domain.Shared.AssemblyInfo.cs
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\net9.0\Acme.BookStore.Domain.Shared.csproj.CoreCompileInputs.cache
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\net9.0\Acme.BookStore.Domain.Shared.dll
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\net9.0\refint\Acme.BookStore.Domain.Shared.dll
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\net9.0\Acme.BookStore.Domain.Shared.pdb
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\net9.0\ref\Acme.BookStore.Domain.Shared.dll
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\net9.0\Acme.BookStore.Domain.Shared.sourcelink.json

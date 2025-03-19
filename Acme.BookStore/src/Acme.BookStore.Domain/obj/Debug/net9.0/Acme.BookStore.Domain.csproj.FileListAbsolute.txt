@@ -1,0 +1,15 @@
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain\bin\Debug\net9.0\Acme.BookStore.Domain.deps.json
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain\bin\Debug\net9.0\Acme.BookStore.Domain.dll
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain\bin\Debug\net9.0\Acme.BookStore.Domain.pdb
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain\bin\Debug\net9.0\Acme.BookStore.Domain.Shared.dll
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain\bin\Debug\net9.0\Acme.BookStore.Domain.Shared.pdb
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain\obj\Debug\net9.0\Acme.BookStore.Domain.csproj.AssemblyReference.cache
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain\obj\Debug\net9.0\Acme.BookStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain\obj\Debug\net9.0\Acme.BookStore.Domain.AssemblyInfoInputs.cache
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain\obj\Debug\net9.0\Acme.BookStore.Domain.AssemblyInfo.cs
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain\obj\Debug\net9.0\Acme.BookStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain\obj\Debug\net9.0\Acme.Boo.70F1964D.Up2Date
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain\obj\Debug\net9.0\Acme.BookStore.Domain.dll
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain\obj\Debug\net9.0\refint\Acme.BookStore.Domain.dll
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain\obj\Debug\net9.0\Acme.BookStore.Domain.pdb
+C:\Users\shody\Documents\Projects\BookStoreABPTest\Acme.BookStore\src\Acme.BookStore.Domain\obj\Debug\net9.0\ref\Acme.BookStore.Domain.dll
